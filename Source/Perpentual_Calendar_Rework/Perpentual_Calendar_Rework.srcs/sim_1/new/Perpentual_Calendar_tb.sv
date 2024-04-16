@@ -38,7 +38,7 @@ end
 initial begin
     #0 rst=0;
     #1 rst=1;
-    #100 option=1;
+//    #100 option=1;
     #10 option=0;
     #5000 $finish;
 end

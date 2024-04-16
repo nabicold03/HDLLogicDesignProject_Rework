@@ -1,7 +1,0 @@
-Running: xsim.dir/Perpentual_Calendar_tb_behav/xsimk.exe -simmode gui -wdb Perpentual_Calendar_tb_behav.wdb -simrunnum 0 -socket 52488
-Design successfully loaded
-Design Loading Memory Usage: 7992 KB (Peak: 7992 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 8552 KB (Peak: 8552 KB)
-Simulation CPU Usage: 0 ms
